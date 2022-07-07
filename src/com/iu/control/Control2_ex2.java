@@ -27,7 +27,10 @@ public class Control2_ex2 {
 		
 		System.out.println("ch:"+ch);
 
+
 		//Study edition
+		//Home edition
+
 	}
 
 }
