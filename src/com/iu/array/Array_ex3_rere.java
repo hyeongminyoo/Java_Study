@@ -122,7 +122,7 @@ public class Array_ex3_rere {
 					int index=0;
 					for(int j=0;j<names.length;j++) {
 						if(j==i) {
-							j++;
+							//j++;
 							continue;
 							
 						}
